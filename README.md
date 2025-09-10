@@ -1,6 +1,6 @@
-# Medicine Info API Server
+# VietPharmaAPI
 
-This is a REST API server for looking up medicine information across major pharmacy brands in Vietnam.
+A REST API server written in Go for looking up medicine information across major pharmacy brands in Vietnam.
 
 ## Features
 
